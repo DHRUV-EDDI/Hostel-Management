@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Hostel-Management"
+    }
+  },
+  "defaultProject": "Hostel-Management",
+  "cli": {
+    "analytics": "66a92241-1252-4f01-83ae-5d26444c1afe"
+  }
 }
